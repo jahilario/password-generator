@@ -11,4 +11,4 @@
 
 ## Tech Used
 * HTML5
-* Javascript
+* Javascript# password-generator
